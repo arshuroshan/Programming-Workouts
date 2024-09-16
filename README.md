@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arshuroshan/Top-Interview-150/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/arshuroshan/Top-Interview-150/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arshuroshan/Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arshuroshan/Top-Interview-150/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arshuroshan/Top-Interview-150/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arshuroshan/Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/arshuroshan/Top-Interview-150/tree/master/0539-minimum-time-difference) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arshuroshan/Top-Interview-150/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0020-valid-parentheses) |
 | [0539-minimum-time-difference](https://github.com/arshuroshan/Top-Interview-150/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arshuroshan/Top-Interview-150/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
