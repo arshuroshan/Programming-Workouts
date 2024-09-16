@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/arshuroshan/Top-Interview-150/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/arshuroshan/Top-Interview-150/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arshuroshan/Top-Interview-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/arshuroshan/Top-Interview-150/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/0189-rotate-array) |
 ## String
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/arshuroshan/Top-Interview-150/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/arshuroshan/Top-Interview-150/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arshuroshan/Top-Interview-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/arshuroshan/Top-Interview-150/tree/master/0042-trapping-rain-water) |
 ## Counting Sort
 |  |
 | ------- |
@@ -108,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/arshuroshan/Top-Interview-150/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/arshuroshan/Top-Interview-150/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
