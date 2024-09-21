@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/arshuroshan/Top-Interview-150/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/arshuroshan/Top-Interview-150/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/arshuroshan/Top-Interview-150/tree/master/0068-text-justification) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arshuroshan/Top-Interview-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/arshuroshan/Top-Interview-150/tree/master/0134-gas-station) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/arshuroshan/Top-Interview-150/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/arshuroshan/Top-Interview-150/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/arshuroshan/Top-Interview-150/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/arshuroshan/Top-Interview-150/tree/master/0214-shortest-palindrome) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/arshuroshan/Top-Interview-150/tree/master/0214-shortest-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/arshuroshan/Top-Interview-150/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
