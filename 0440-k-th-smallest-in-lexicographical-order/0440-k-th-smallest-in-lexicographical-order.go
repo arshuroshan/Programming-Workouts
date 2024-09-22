@@ -6,15 +6,15 @@ import (
 
 func findKthNumber(n int, k int) int {
 	curr := 1
-	k-- // Adjust k since we start counting from 1
+	k--
 
 	for k > 0 {
 		count := countNumbers(n, curr)
 		if count <= k {
 			k -= count
-			curr++ // Move to the next lexicographical number
+			curr++
 		} else {
-			k-- // Go deeper into the current "number" branch
+			k--
 			curr *= 10
 		}
 	}
