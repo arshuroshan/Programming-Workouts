@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/arshuroshan/Top-Interview-150/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/arshuroshan/Top-Interview-150/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/arshuroshan/Top-Interview-150/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/arshuroshan/Top-Interview-150/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/arshuroshan/Top-Interview-150/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/arshuroshan/Top-Interview-150/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arshuroshan/Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/arshuroshan/Top-Interview-150/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/arshuroshan/Top-Interview-150/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/arshuroshan/Top-Interview-150/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0241-different-ways-to-add-parentheses) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arshuroshan/Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/arshuroshan/Top-Interview-150/tree/master/0539-minimum-time-difference) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arshuroshan/Top-Interview-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/arshuroshan/Top-Interview-150/tree/master/0202-happy-number) |
 | [1923-sentence-similarity-iii](https://github.com/arshuroshan/Top-Interview-150/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arshuroshan/Top-Interview-150/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arshuroshan/Top-Interview-150/tree/master/2581-divide-players-into-teams-of-equal-skill) |
