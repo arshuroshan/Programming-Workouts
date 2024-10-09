@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/arshuroshan/Top-Interview-150/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/arshuroshan/Top-Interview-150/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/arshuroshan/Top-Interview-150/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/arshuroshan/Top-Interview-150/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/arshuroshan/Top-Interview-150/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/arshuroshan/Top-Interview-150/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arshuroshan/Top-Interview-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/arshuroshan/Top-Interview-150/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/arshuroshan/Top-Interview-150/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/arshuroshan/Top-Interview-150/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/arshuroshan/Top-Interview-150/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/arshuroshan/Top-Interview-150/tree/master/0274-h-index) |
