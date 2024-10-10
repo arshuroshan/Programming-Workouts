@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/arshuroshan/Top-Interview-150/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/arshuroshan/Top-Interview-150/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arshuroshan/Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/arshuroshan/Top-Interview-150/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/arshuroshan/Top-Interview-150/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/arshuroshan/Top-Interview-150/tree/master/0859-design-circular-deque) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/arshuroshan/Top-Interview-150/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/arshuroshan/Top-Interview-150/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/arshuroshan/Top-Interview-150/tree/master/0274-h-index) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/arshuroshan/Top-Interview-150/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/arshuroshan/Top-Interview-150/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arshuroshan/Top-Interview-150/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/arshuroshan/Top-Interview-150/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/arshuroshan/Top-Interview-150/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/arshuroshan/Top-Interview-150/tree/master/0179-largest-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/arshuroshan/Top-Interview-150/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arshuroshan/Top-Interview-150/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arshuroshan/Top-Interview-150/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Prefix Sum
