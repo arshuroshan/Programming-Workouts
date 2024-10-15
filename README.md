@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/arshuroshan/Top-Interview-150/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/arshuroshan/Top-Interview-150/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/arshuroshan/Top-Interview-150/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/arshuroshan/Top-Interview-150/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/arshuroshan/Top-Interview-150/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/arshuroshan/Top-Interview-150/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/arshuroshan/Top-Interview-150/tree/master/0202-happy-number) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/arshuroshan/Top-Interview-150/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/arshuroshan/Top-Interview-150/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/arshuroshan/Top-Interview-150/tree/master/0141-linked-list-cycle) |
 | [0432-all-oone-data-structure](https://github.com/arshuroshan/Top-Interview-150/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/arshuroshan/Top-Interview-150/tree/master/0859-design-circular-deque) |
