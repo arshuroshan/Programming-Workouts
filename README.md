@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/arshuroshan/Top-Interview-150/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/arshuroshan/Top-Interview-150/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arshuroshan/Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/arshuroshan/Top-Interview-150/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/arshuroshan/Top-Interview-150/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/arshuroshan/Top-Interview-150/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arshuroshan/Top-Interview-150/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/arshuroshan/Top-Interview-150/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/arshuroshan/Top-Interview-150/tree/master/0290-word-pattern) |
+| [0399-evaluate-division](https://github.com/arshuroshan/Top-Interview-150/tree/master/0399-evaluate-division) |
 | [0539-minimum-time-difference](https://github.com/arshuroshan/Top-Interview-150/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arshuroshan/Top-Interview-150/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arshuroshan/Top-Interview-150/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/arshuroshan/Top-Interview-150/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/arshuroshan/Top-Interview-150/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/arshuroshan/Top-Interview-150/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/arshuroshan/Top-Interview-150/tree/master/0399-evaluate-division) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/arshuroshan/Top-Interview-150/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/arshuroshan/Top-Interview-150/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/arshuroshan/Top-Interview-150/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arshuroshan/Top-Interview-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/arshuroshan/Top-Interview-150/tree/master/0988-flip-equivalent-binary-trees) |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/arshuroshan/Top-Interview-150/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/arshuroshan/Top-Interview-150/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/arshuroshan/Top-Interview-150/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/arshuroshan/Top-Interview-150/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arshuroshan/Top-Interview-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -533,4 +538,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/arshuroshan/Top-Interview-150/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/arshuroshan/Top-Interview-150/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/arshuroshan/Top-Interview-150/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
