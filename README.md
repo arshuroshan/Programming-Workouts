@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/arshuroshan/Top-Interview-150/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/arshuroshan/Top-Interview-150/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/arshuroshan/Top-Interview-150/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/arshuroshan/Top-Interview-150/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arshuroshan/Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/arshuroshan/Top-Interview-150/tree/master/0432-all-oone-data-structure) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/arshuroshan/Top-Interview-150/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/arshuroshan/Top-Interview-150/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/arshuroshan/Top-Interview-150/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/arshuroshan/Top-Interview-150/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0241-different-ways-to-add-parentheses) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/arshuroshan/Top-Interview-150/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/arshuroshan/Top-Interview-150/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/arshuroshan/Top-Interview-150/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arshuroshan/Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/arshuroshan/Top-Interview-150/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/0729-my-calendar-i) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arshuroshan/Top-Interview-150/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0208-implement-trie-prefix-tree) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/arshuroshan/Top-Interview-150/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/arshuroshan/Top-Interview-150/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/arshuroshan/Top-Interview-150/tree/master/2494-sum-of-prefix-scores-of-strings) |
