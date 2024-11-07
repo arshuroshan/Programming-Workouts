@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/arshuroshan/Top-Interview-150/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0212-word-search-ii) |
 | [0228-summary-ranges](https://github.com/arshuroshan/Top-Interview-150/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/arshuroshan/Top-Interview-150/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/arshuroshan/Top-Interview-150/tree/master/0274-h-index) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/arshuroshan/Top-Interview-150/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/arshuroshan/Top-Interview-150/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/arshuroshan/Top-Interview-150/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/arshuroshan/Top-Interview-150/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0241-different-ways-to-add-parentheses) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arshuroshan/Top-Interview-150/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0212-word-search-ii) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/arshuroshan/Top-Interview-150/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/arshuroshan/Top-Interview-150/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/arshuroshan/Top-Interview-150/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/arshuroshan/Top-Interview-150/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/arshuroshan/Top-Interview-150/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/arshuroshan/Top-Interview-150/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/arshuroshan/Top-Interview-150/tree/master/0289-game-of-life) |
 | [0945-snakes-and-ladders](https://github.com/arshuroshan/Top-Interview-150/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/arshuroshan/Top-Interview-150/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0212-word-search-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/arshuroshan/Top-Interview-150/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
