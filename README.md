@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/arshuroshan/Top-Interview-150/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arshuroshan/Top-Interview-150/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/arshuroshan/Top-Interview-150/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/arshuroshan/Top-Interview-150/tree/master/3291-find-if-array-can-be-sorted) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/arshuroshan/Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/arshuroshan/Top-Interview-150/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/arshuroshan/Top-Interview-150/tree/master/0670-maximum-swap) |
+| [2716-prime-subtraction-operation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2716-prime-subtraction-operation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arshuroshan/Top-Interview-150/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arshuroshan/Top-Interview-150/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/arshuroshan/Top-Interview-150/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/arshuroshan/Top-Interview-150/tree/master/3195-separate-black-and-white-balls) |
 ## Prefix Sum
 |  |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/arshuroshan/Top-Interview-150/tree/master/0222-count-complete-tree-nodes) |
 | [0729-my-calendar-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/0729-my-calendar-i) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2716-prime-subtraction-operation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2716-prime-subtraction-operation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -585,4 +589,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/arshuroshan/Top-Interview-150/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0210-course-schedule-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
