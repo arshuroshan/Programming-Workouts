@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/arshuroshan/Top-Interview-150/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/arshuroshan/Top-Interview-150/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/arshuroshan/Top-Interview-150/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/arshuroshan/Top-Interview-150/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/arshuroshan/Top-Interview-150/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arshuroshan/Top-Interview-150/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/arshuroshan/Top-Interview-150/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/arshuroshan/Top-Interview-150/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arshuroshan/Top-Interview-150/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/1256-rank-transform-of-an-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/arshuroshan/Top-Interview-150/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arshuroshan/Top-Interview-150/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/arshuroshan/Top-Interview-150/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arshuroshan/Top-Interview-150/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/arshuroshan/Top-Interview-150/tree/master/0222-count-complete-tree-nodes) |
 | [0729-my-calendar-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/0729-my-calendar-i) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/arshuroshan/Top-Interview-150/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2716-prime-subtraction-operation) |
 ## Sliding Window
 |  |
