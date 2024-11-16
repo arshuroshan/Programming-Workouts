@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/arshuroshan/Top-Interview-150/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/arshuroshan/Top-Interview-150/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/arshuroshan/Top-Interview-150/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/arshuroshan/Top-Interview-150/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arshuroshan/Top-Interview-150/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arshuroshan/Top-Interview-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/arshuroshan/Top-Interview-150/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/arshuroshan/Top-Interview-150/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/arshuroshan/Top-Interview-150/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/arshuroshan/Top-Interview-150/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/arshuroshan/Top-Interview-150/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/arshuroshan/Top-Interview-150/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/0151-reverse-words-in-a-string) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/arshuroshan/Top-Interview-150/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/arshuroshan/Top-Interview-150/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/arshuroshan/Top-Interview-150/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/arshuroshan/Top-Interview-150/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/arshuroshan/Top-Interview-150/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/arshuroshan/Top-Interview-150/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0212-word-search-ii) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/arshuroshan/Top-Interview-150/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/arshuroshan/Top-Interview-150/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/arshuroshan/Top-Interview-150/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0212-word-search-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/arshuroshan/Top-Interview-150/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
