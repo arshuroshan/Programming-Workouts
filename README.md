@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/arshuroshan/Top-Interview-150/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arshuroshan/Top-Interview-150/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/0729-my-calendar-i) |
+| [0772-construct-quad-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0772-construct-quad-tree) |
 | [0859-design-circular-deque](https://github.com/arshuroshan/Top-Interview-150/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0945-snakes-and-ladders](https://github.com/arshuroshan/Top-Interview-150/tree/master/0945-snakes-and-ladders) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/arshuroshan/Top-Interview-150/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/arshuroshan/Top-Interview-150/tree/master/0169-majority-element) |
+| [0772-construct-quad-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0772-construct-quad-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/arshuroshan/Top-Interview-150/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/arshuroshan/Top-Interview-150/tree/master/0289-game-of-life) |
+| [0772-construct-quad-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/arshuroshan/Top-Interview-150/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/arshuroshan/Top-Interview-150/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arshuroshan/Top-Interview-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0772-construct-quad-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/arshuroshan/Top-Interview-150/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/2677-cousins-in-binary-tree-ii) |
