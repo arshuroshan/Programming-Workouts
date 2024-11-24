@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/arshuroshan/Top-Interview-150/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/arshuroshan/Top-Interview-150/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/arshuroshan/Top-Interview-150/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/arshuroshan/Top-Interview-150/tree/master/0295-find-median-from-data-stream) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/arshuroshan/Top-Interview-150/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/arshuroshan/Top-Interview-150/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/arshuroshan/Top-Interview-150/tree/master/0539-minimum-time-difference) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arshuroshan/Top-Interview-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/arshuroshan/Top-Interview-150/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/arshuroshan/Top-Interview-150/tree/master/0295-find-median-from-data-stream) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arshuroshan/Top-Interview-150/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/arshuroshan/Top-Interview-150/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/arshuroshan/Top-Interview-150/tree/master/1972-rotating-the-box) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/arshuroshan/Top-Interview-150/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/arshuroshan/Top-Interview-150/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/arshuroshan/Top-Interview-150/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arshuroshan/Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/arshuroshan/Top-Interview-150/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/0729-my-calendar-i) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/arshuroshan/Top-Interview-150/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/arshuroshan/Top-Interview-150/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arshuroshan/Top-Interview-150/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/arshuroshan/Top-Interview-150/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arshuroshan/Top-Interview-150/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -682,4 +686,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/arshuroshan/Top-Interview-150/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/arshuroshan/Top-Interview-150/tree/master/0148-sort-list) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/arshuroshan/Top-Interview-150/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
