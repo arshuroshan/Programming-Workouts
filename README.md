@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/arshuroshan/Top-Interview-150/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/arshuroshan/Top-Interview-150/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/arshuroshan/Top-Interview-150/tree/master/0289-game-of-life) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/arshuroshan/Top-Interview-150/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arshuroshan/Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/arshuroshan/Top-Interview-150/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/arshuroshan/Top-Interview-150/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/arshuroshan/Top-Interview-150/tree/master/0023-merge-k-sorted-lists) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/arshuroshan/Top-Interview-150/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/arshuroshan/Top-Interview-150/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arshuroshan/Top-Interview-150/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
