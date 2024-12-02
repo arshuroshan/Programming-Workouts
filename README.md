@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/arshuroshan/Top-Interview-150/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/arshuroshan/Top-Interview-150/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/arshuroshan/Top-Interview-150/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/arshuroshan/Top-Interview-150/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/arshuroshan/Top-Interview-150/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arshuroshan/Top-Interview-150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/arshuroshan/Top-Interview-150/tree/master/0172-factorial-trailing-zeroes) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/arshuroshan/Top-Interview-150/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/arshuroshan/Top-Interview-150/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/arshuroshan/Top-Interview-150/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arshuroshan/Top-Interview-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/arshuroshan/Top-Interview-150/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
