@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/arshuroshan/Top-Interview-150/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/arshuroshan/Top-Interview-150/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/arshuroshan/Top-Interview-150/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/arshuroshan/Top-Interview-150/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arshuroshan/Top-Interview-150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/arshuroshan/Top-Interview-150/tree/master/0162-find-peak-element) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/arshuroshan/Top-Interview-150/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/arshuroshan/Top-Interview-150/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/arshuroshan/Top-Interview-150/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/arshuroshan/Top-Interview-150/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/arshuroshan/Top-Interview-150/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/arshuroshan/Top-Interview-150/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/arshuroshan/Top-Interview-150/tree/master/0149-max-points-on-a-line) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/arshuroshan/Top-Interview-150/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/arshuroshan/Top-Interview-150/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/arshuroshan/Top-Interview-150/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/arshuroshan/Top-Interview-150/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/arshuroshan/Top-Interview-150/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/arshuroshan/Top-Interview-150/tree/master/0205-isomorphic-strings) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arshuroshan/Top-Interview-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/arshuroshan/Top-Interview-150/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/arshuroshan/Top-Interview-150/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0241-different-ways-to-add-parentheses) |
 | [0954-maximum-sum-circular-subarray](https://github.com/arshuroshan/Top-Interview-150/tree/master/0954-maximum-sum-circular-subarray) |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arshuroshan/Top-Interview-150/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/arshuroshan/Top-Interview-150/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0212-word-search-ii) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/arshuroshan/Top-Interview-150/tree/master/0440-k-th-smallest-in-lexicographical-order) |
@@ -438,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arshuroshan/Top-Interview-150/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/arshuroshan/Top-Interview-150/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
