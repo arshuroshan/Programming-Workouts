@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/arshuroshan/Top-Interview-150/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/2755-extra-characters-in-a-string) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arshuroshan/Top-Interview-150/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Divide and Conquer
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/arshuroshan/Top-Interview-150/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/arshuroshan/Top-Interview-150/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/arshuroshan/Top-Interview-150/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Math
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/arshuroshan/Top-Interview-150/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/arshuroshan/Top-Interview-150/tree/master/3195-separate-black-and-white-balls) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arshuroshan/Top-Interview-150/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/arshuroshan/Top-Interview-150/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/arshuroshan/Top-Interview-150/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2716-prime-subtraction-operation) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/arshuroshan/Top-Interview-150/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/arshuroshan/Top-Interview-150/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Segment Tree
 |  |
