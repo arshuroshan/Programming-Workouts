@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arshuroshan/Top-Interview-150/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arshuroshan/Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/arshuroshan/Top-Interview-150/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0407-trapping-rain-water-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/arshuroshan/Top-Interview-150/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/arshuroshan/Top-Interview-150/tree/master/0502-ipo) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/arshuroshan/Top-Interview-150/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/arshuroshan/Top-Interview-150/tree/master/0289-game-of-life) |
+| [0407-trapping-rain-water-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0407-trapping-rain-water-ii) |
 | [0772-construct-quad-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/arshuroshan/Top-Interview-150/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/arshuroshan/Top-Interview-150/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/arshuroshan/Top-Interview-150/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/arshuroshan/Top-Interview-150/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arshuroshan/Top-Interview-150/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0407-trapping-rain-water-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/arshuroshan/Top-Interview-150/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arshuroshan/Top-Interview-150/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -785,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/arshuroshan/Top-Interview-150/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/arshuroshan/Top-Interview-150/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/arshuroshan/Top-Interview-150/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arshuroshan/Top-Interview-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
