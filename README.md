@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/arshuroshan/Top-Interview-150/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/arshuroshan/Top-Interview-150/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/arshuroshan/Top-Interview-150/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/arshuroshan/Top-Interview-150/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/arshuroshan/Top-Interview-150/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/arshuroshan/Top-Interview-150/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/arshuroshan/Top-Interview-150/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arshuroshan/Top-Interview-150/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/arshuroshan/Top-Interview-150/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/arshuroshan/Top-Interview-150/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arshuroshan/Top-Interview-150/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/arshuroshan/Top-Interview-150/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/arshuroshan/Top-Interview-150/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/arshuroshan/Top-Interview-150/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/arshuroshan/Top-Interview-150/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/arshuroshan/Top-Interview-150/tree/master/1972-rotating-the-box) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/arshuroshan/Top-Interview-150/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/arshuroshan/Top-Interview-150/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/arshuroshan/Top-Interview-150/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/arshuroshan/Top-Interview-150/tree/master/0399-evaluate-division) |
+| [1396-count-servers-that-communicate](https://github.com/arshuroshan/Top-Interview-150/tree/master/1396-count-servers-that-communicate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -766,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/arshuroshan/Top-Interview-150/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/arshuroshan/Top-Interview-150/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/arshuroshan/Top-Interview-150/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/arshuroshan/Top-Interview-150/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -793,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arshuroshan/Top-Interview-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/arshuroshan/Top-Interview-150/tree/master/0945-snakes-and-ladders) |
+| [1396-count-servers-that-communicate](https://github.com/arshuroshan/Top-Interview-150/tree/master/1396-count-servers-that-communicate) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/arshuroshan/Top-Interview-150/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
