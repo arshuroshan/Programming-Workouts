@@ -777,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arshuroshan/Top-Interview-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/arshuroshan/Top-Interview-150/tree/master/0684-redundant-connection) |
+| [0820-find-eventual-safe-states](https://github.com/arshuroshan/Top-Interview-150/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/arshuroshan/Top-Interview-150/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/arshuroshan/Top-Interview-150/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/arshuroshan/Top-Interview-150/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arshuroshan/Top-Interview-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/arshuroshan/Top-Interview-150/tree/master/0684-redundant-connection) |
+| [0820-find-eventual-safe-states](https://github.com/arshuroshan/Top-Interview-150/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/arshuroshan/Top-Interview-150/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/arshuroshan/Top-Interview-150/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/arshuroshan/Top-Interview-150/tree/master/1396-count-servers-that-communicate) |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/arshuroshan/Top-Interview-150/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/arshuroshan/Top-Interview-150/tree/master/0684-redundant-connection) |
+| [0820-find-eventual-safe-states](https://github.com/arshuroshan/Top-Interview-150/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/arshuroshan/Top-Interview-150/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/arshuroshan/Top-Interview-150/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/arshuroshan/Top-Interview-150/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -884,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/arshuroshan/Top-Interview-150/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/arshuroshan/Top-Interview-150/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/arshuroshan/Top-Interview-150/tree/master/1558-course-schedule-iv) |
 ## Number Theory
 |  |
