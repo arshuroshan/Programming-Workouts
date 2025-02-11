@@ -969,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-movie-rating](https://github.com/arshuroshan/Top-Interview-150/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/arshuroshan/Top-Interview-150/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/arshuroshan/Top-Interview-150/tree/master/1625-group-sold-products-by-the-date) |
+| [1664-find-users-with-valid-e-mails](https://github.com/arshuroshan/Top-Interview-150/tree/master/1664-find-users-with-valid-e-mails) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/arshuroshan/Top-Interview-150/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/arshuroshan/Top-Interview-150/tree/master/1801-average-time-of-process-per-machine) |
 | [1877-find-followers-count](https://github.com/arshuroshan/Top-Interview-150/tree/master/1877-find-followers-count) |
