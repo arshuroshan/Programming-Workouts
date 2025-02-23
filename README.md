@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/arshuroshan/Top-Interview-150/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/arshuroshan/Top-Interview-150/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/arshuroshan/Top-Interview-150/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/arshuroshan/Top-Interview-150/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/arshuroshan/Top-Interview-150/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/arshuroshan/Top-Interview-150/tree/master/0954-maximum-sum-circular-subarray) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/arshuroshan/Top-Interview-150/tree/master/0433-minimum-genetic-mutation) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arshuroshan/Top-Interview-150/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arshuroshan/Top-Interview-150/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/arshuroshan/Top-Interview-150/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/arshuroshan/Top-Interview-150/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/arshuroshan/Top-Interview-150/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/arshuroshan/Top-Interview-150/tree/master/1160-letter-tile-possibilities) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/arshuroshan/Top-Interview-150/tree/master/0191-number-of-1-bits) |
 | [0772-construct-quad-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0772-construct-quad-tree) |
 | [0773-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/arshuroshan/Top-Interview-150/tree/master/0773-logical-or-of-two-binary-grids-represented-as-quad-trees) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/arshuroshan/Top-Interview-150/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0954-maximum-sum-circular-subarray](https://github.com/arshuroshan/Top-Interview-150/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0772-construct-quad-tree) |
 | [0773-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/arshuroshan/Top-Interview-150/tree/master/0773-logical-or-of-two-binary-grids-represented-as-quad-trees) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/arshuroshan/Top-Interview-150/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/arshuroshan/Top-Interview-150/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/arshuroshan/Top-Interview-150/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -883,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arshuroshan/Top-Interview-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/arshuroshan/Top-Interview-150/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/arshuroshan/Top-Interview-150/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/arshuroshan/Top-Interview-150/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
