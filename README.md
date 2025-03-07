@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/arshuroshan/Top-Interview-150/tree/master/0670-maximum-swap) |
 | [1477-product-of-the-last-k-numbers](https://github.com/arshuroshan/Top-Interview-150/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2610-closest-prime-numbers-in-range](https://github.com/arshuroshan/Top-Interview-150/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2716-prime-subtraction-operation) |
 ## Two Pointers
 |  |
@@ -963,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/arshuroshan/Top-Interview-150/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2716-prime-subtraction-operation) |
 ## Monotonic Queue
 |  |
