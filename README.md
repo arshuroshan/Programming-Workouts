@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/arshuroshan/Top-Interview-150/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/arshuroshan/Top-Interview-150/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/arshuroshan/Top-Interview-150/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/arshuroshan/Top-Interview-150/tree/master/0049-group-anagrams) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arshuroshan/Top-Interview-150/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/arshuroshan/Top-Interview-150/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/arshuroshan/Top-Interview-150/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/arshuroshan/Top-Interview-150/tree/master/0053-maximum-subarray) |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/arshuroshan/Top-Interview-150/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/arshuroshan/Top-Interview-150/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/arshuroshan/Top-Interview-150/tree/master/0077-combinations) |
