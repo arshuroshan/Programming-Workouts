@@ -1,16 +1,28 @@
+from collections import deque
+
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
         if not digits:
             return []
-        
-        digit_to_letters = ["abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"]
 
-        def backtrack(index: int) -> List[str]:
-            if index == len(digits):
-                return [""]
-            
-            letters = digit_to_letters[int(digits[index]) - 2]
-            combinations = backtrack(index + 1)
-            return [letter + combination for letter in letters for combination in combinations]
-        
-        return backtrack(0)
+        digit_to_letters = {
+            '2': 'abc',
+            '3': 'def',
+            '4': 'ghi',
+            '5': 'jkl',
+            '6': 'mno',
+            '7': 'pqrs',
+            '8': 'tuv',
+            '9': 'wxyz'
+        }
+
+        queue = deque([''])
+
+        for digit in digits:
+            level_size = len(queue)
+            for _ in range(level_size):
+                current_combination = queue.popleft()
+                for letter in digit_to_letters[digit]:
+                    queue.append(current_combination + letter)
+
+        return list(queue)
