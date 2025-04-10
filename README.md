@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/arshuroshan/Top-Interview-150/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/arshuroshan/Top-Interview-150/tree/master/3001-apply-operations-to-maximize-score) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/arshuroshan/Top-Interview-150/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/arshuroshan/Top-Interview-150/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/arshuroshan/Top-Interview-150/tree/master/3195-separate-black-and-white-balls) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/arshuroshan/Top-Interview-150/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arshuroshan/Top-Interview-150/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-count-ways-to-build-good-strings](https://github.com/arshuroshan/Top-Interview-150/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/arshuroshan/Top-Interview-150/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Greedy
 |  |
 | ------- |
