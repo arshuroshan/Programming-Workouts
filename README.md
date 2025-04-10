@@ -669,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/arshuroshan/Top-Interview-150/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/arshuroshan/Top-Interview-150/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/arshuroshan/Top-Interview-150/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/arshuroshan/Top-Interview-150/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/arshuroshan/Top-Interview-150/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/arshuroshan/Top-Interview-150/tree/master/1197-parsing-a-boolean-expression) |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/arshuroshan/Top-Interview-150/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/arshuroshan/Top-Interview-150/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arshuroshan/Top-Interview-150/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/arshuroshan/Top-Interview-150/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/arshuroshan/Top-Interview-150/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/arshuroshan/Top-Interview-150/tree/master/0859-design-circular-deque) |
 ## Queue
