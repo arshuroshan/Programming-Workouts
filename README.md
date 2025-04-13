@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/arshuroshan/Top-Interview-150/tree/master/0670-maximum-swap) |
 | [1477-product-of-the-last-k-numbers](https://github.com/arshuroshan/Top-Interview-150/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2050-count-good-numbers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2050-count-good-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/arshuroshan/Top-Interview-150/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2716-prime-subtraction-operation) |
 | [2998-count-symmetric-integers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2998-count-symmetric-integers) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/arshuroshan/Top-Interview-150/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2050-count-good-numbers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
