@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/arshuroshan/Top-Interview-150/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/arshuroshan/Top-Interview-150/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/arshuroshan/Top-Interview-150/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/arshuroshan/Top-Interview-150/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/arshuroshan/Top-Interview-150/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/arshuroshan/Top-Interview-150/tree/master/0347-top-k-frequent-elements) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/arshuroshan/Top-Interview-150/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/arshuroshan/Top-Interview-150/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/arshuroshan/Top-Interview-150/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/arshuroshan/Top-Interview-150/tree/master/0295-find-median-from-data-stream) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/arshuroshan/Top-Interview-150/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/arshuroshan/Top-Interview-150/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
