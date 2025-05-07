@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3643-zero-array-transformation-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/arshuroshan/Top-Interview-150/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
@@ -913,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -955,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/arshuroshan/Top-Interview-150/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/arshuroshan/Top-Interview-150/tree/master/2868-continuous-subarrays) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -1158,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/arshuroshan/Top-Interview-150/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3189-find-champion-ii) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1165,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/arshuroshan/Top-Interview-150/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/arshuroshan/Top-Interview-150/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
