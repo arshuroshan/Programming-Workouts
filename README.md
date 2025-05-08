@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/arshuroshan/Top-Interview-150/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -958,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/arshuroshan/Top-Interview-150/tree/master/2868-continuous-subarrays) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -1162,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/arshuroshan/Top-Interview-150/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3189-find-champion-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1170,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/arshuroshan/Top-Interview-150/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
 | ------- |
