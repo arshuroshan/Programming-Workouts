@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arshuroshan/Top-Interview-150/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/arshuroshan/Top-Interview-150/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/arshuroshan/Top-Interview-150/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arshuroshan/Top-Interview-150/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arshuroshan/Top-Interview-150/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/arshuroshan/Top-Interview-150/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arshuroshan/Top-Interview-150/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/arshuroshan/Top-Interview-150/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/arshuroshan/Top-Interview-150/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/arshuroshan/Top-Interview-150/tree/master/3430-count-days-without-meetings) |
 ## Counting
 |  |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/arshuroshan/Top-Interview-150/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/arshuroshan/Top-Interview-150/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3321-type-of-triangle](https://github.com/arshuroshan/Top-Interview-150/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/arshuroshan/Top-Interview-150/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3630-total-characters-in-string-after-transformations-ii) |
