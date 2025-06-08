@@ -1072,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/arshuroshan/Top-Interview-150/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/arshuroshan/Top-Interview-150/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1113,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/arshuroshan/Top-Interview-150/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/arshuroshan/Top-Interview-150/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1153,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/arshuroshan/Top-Interview-150/tree/master/2793-count-the-number-of-complete-components) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
