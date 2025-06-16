@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/arshuroshan/Top-Interview-150/tree/master/1972-rotating-the-box) |
 | [2048-build-array-from-permutation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/arshuroshan/Top-Interview-150/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/arshuroshan/Top-Interview-150/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/arshuroshan/Top-Interview-150/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/arshuroshan/Top-Interview-150/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arshuroshan/Top-Interview-150/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
