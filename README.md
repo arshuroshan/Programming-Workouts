@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/arshuroshan/Top-Interview-150/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/arshuroshan/Top-Interview-150/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/arshuroshan/Top-Interview-150/tree/master/0797-rabbits-in-forest) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arshuroshan/Top-Interview-150/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arshuroshan/Top-Interview-150/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/arshuroshan/Top-Interview-150/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/arshuroshan/Top-Interview-150/tree/master/1500-count-largest-group) |
@@ -995,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/arshuroshan/Top-Interview-150/tree/master/0234-palindrome-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/arshuroshan/Top-Interview-150/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/arshuroshan/Top-Interview-150/tree/master/0859-design-circular-deque) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arshuroshan/Top-Interview-150/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Queue
 |  |
 | ------- |
