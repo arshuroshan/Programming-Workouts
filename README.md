@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/arshuroshan/Top-Interview-150/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/arshuroshan/Top-Interview-150/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -912,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/arshuroshan/Top-Interview-150/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/arshuroshan/Top-Interview-150/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -947,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -982,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/0729-my-calendar-i) |
 | [2280-count-good-triplets-in-an-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/2280-count-good-triplets-in-an-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/arshuroshan/Top-Interview-150/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -989,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/arshuroshan/Top-Interview-150/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/arshuroshan/Top-Interview-150/tree/master/2868-continuous-subarrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
 |  |
 | ------- |
