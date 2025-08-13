@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/arshuroshan/Top-Interview-150/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/arshuroshan/Top-Interview-150/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/arshuroshan/Top-Interview-150/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arshuroshan/Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/arshuroshan/Top-Interview-150/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/arshuroshan/Top-Interview-150/tree/master/0670-maximum-swap) |
@@ -872,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/arshuroshan/Top-Interview-150/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/arshuroshan/Top-Interview-150/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/arshuroshan/Top-Interview-150/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/arshuroshan/Top-Interview-150/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/1667-find-kth-bit-in-nth-binary-string) |
