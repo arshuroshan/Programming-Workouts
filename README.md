@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/arshuroshan/Top-Interview-150/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/arshuroshan/Top-Interview-150/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/arshuroshan/Top-Interview-150/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/arshuroshan/Top-Interview-150/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/arshuroshan/Top-Interview-150/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/arshuroshan/Top-Interview-150/tree/master/0067-add-binary) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/arshuroshan/Top-Interview-150/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/arshuroshan/Top-Interview-150/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/arshuroshan/Top-Interview-150/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/arshuroshan/Top-Interview-150/tree/master/0055-jump-game) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arshuroshan/Top-Interview-150/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/arshuroshan/Top-Interview-150/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/arshuroshan/Top-Interview-150/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -880,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/arshuroshan/Top-Interview-150/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/arshuroshan/Top-Interview-150/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/arshuroshan/Top-Interview-150/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/arshuroshan/Top-Interview-150/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/arshuroshan/Top-Interview-150/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/arshuroshan/Top-Interview-150/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/arshuroshan/Top-Interview-150/tree/master/0224-basic-calculator) |
