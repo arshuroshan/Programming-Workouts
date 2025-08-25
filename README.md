@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/arshuroshan/Top-Interview-150/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/arshuroshan/Top-Interview-150/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/arshuroshan/Top-Interview-150/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/arshuroshan/Top-Interview-150/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/0560-subarray-sum-equals-k) |
@@ -936,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/arshuroshan/Top-Interview-150/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/arshuroshan/Top-Interview-150/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/arshuroshan/Top-Interview-150/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/arshuroshan/Top-Interview-150/tree/master/0498-diagonal-traverse) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2048-build-array-from-permutation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/2232-adding-spaces-to-a-string) |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/arshuroshan/Top-Interview-150/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/arshuroshan/Top-Interview-150/tree/master/0498-diagonal-traverse) |
 | [0772-construct-quad-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0772-construct-quad-tree) |
 | [0854-making-a-large-island](https://github.com/arshuroshan/Top-Interview-150/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/arshuroshan/Top-Interview-150/tree/master/0945-snakes-and-ladders) |
