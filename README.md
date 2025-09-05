@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/arshuroshan/Top-Interview-150/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/arshuroshan/Top-Interview-150/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/arshuroshan/Top-Interview-150/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/arshuroshan/Top-Interview-150/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/arshuroshan/Top-Interview-150/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -868,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/arshuroshan/Top-Interview-150/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/arshuroshan/Top-Interview-150/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/arshuroshan/Top-Interview-150/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1194,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/arshuroshan/Top-Interview-150/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2215-finding-3-digit-even-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/arshuroshan/Top-Interview-150/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2998-count-symmetric-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
