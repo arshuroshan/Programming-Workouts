@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/arshuroshan/Top-Interview-150/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/arshuroshan/Top-Interview-150/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/arshuroshan/Top-Interview-150/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/arshuroshan/Top-Interview-150/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/arshuroshan/Top-Interview-150/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -1023,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/arshuroshan/Top-Interview-150/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/arshuroshan/Top-Interview-150/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/arshuroshan/Top-Interview-150/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/arshuroshan/Top-Interview-150/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arshuroshan/Top-Interview-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/0209-minimum-size-subarray-sum) |
