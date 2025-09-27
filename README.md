@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/0772-construct-quad-tree) |
 | [0780-max-chunks-to-make-sorted](https://github.com/arshuroshan/Top-Interview-150/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/arshuroshan/Top-Interview-150/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/arshuroshan/Top-Interview-150/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/arshuroshan/Top-Interview-150/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/arshuroshan/Top-Interview-150/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/arshuroshan/Top-Interview-150/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/arshuroshan/Top-Interview-150/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/arshuroshan/Top-Interview-150/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/arshuroshan/Top-Interview-150/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/arshuroshan/Top-Interview-150/tree/master/0867-new-21-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arshuroshan/Top-Interview-150/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arshuroshan/Top-Interview-150/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1521,6 +1523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/arshuroshan/Top-Interview-150/tree/master/0149-max-points-on-a-line) |
+| [0830-largest-triangle-area](https://github.com/arshuroshan/Top-Interview-150/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Database
