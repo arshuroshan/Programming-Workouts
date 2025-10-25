@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/arshuroshan/Top-Interview-150/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/arshuroshan/Top-Interview-150/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/arshuroshan/Top-Interview-150/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arshuroshan/Programming-Workouts/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/arshuroshan/Top-Interview-150/tree/master/3830-find-closest-person) |
 ## Two Pointers
 |  |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/arshuroshan/Top-Interview-150/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arshuroshan/Programming-Workouts/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/arshuroshan/Top-Interview-150/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/arshuroshan/Top-Interview-150/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
@@ -1031,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/arshuroshan/Top-Interview-150/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/arshuroshan/Top-Interview-150/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arshuroshan/Programming-Workouts/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -1502,6 +1505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/arshuroshan/Top-Interview-150/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/arshuroshan/Top-Interview-150/tree/master/3001-apply-operations-to-maximize-score) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arshuroshan/Programming-Workouts/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1584,6 +1588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/arshuroshan/Top-Interview-150/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/arshuroshan/Top-Interview-150/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/arshuroshan/Top-Interview-150/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arshuroshan/Programming-Workouts/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bucket Sort
 |  |
 | ------- |
