@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/arshuroshan/Top-Interview-150/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/arshuroshan/Top-Interview-150/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arshuroshan/Top-Interview-150/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/arshuroshan/Programming-Workouts/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/arshuroshan/Top-Interview-150/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/arshuroshan/Top-Interview-150/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/arshuroshan/Top-Interview-150/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/arshuroshan/Top-Interview-150/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/arshuroshan/Programming-Workouts/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/arshuroshan/Top-Interview-150/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/arshuroshan/Top-Interview-150/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/arshuroshan/Top-Interview-150/tree/master/2308-divide-array-into-equal-pairs) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/arshuroshan/Programming-Workouts/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2050-count-good-numbers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2050-count-good-numbers) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/arshuroshan/Programming-Workouts/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/arshuroshan/Top-Interview-150/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -1275,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/arshuroshan/Top-Interview-150/tree/master/1160-letter-tile-possibilities) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/arshuroshan/Top-Interview-150/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/arshuroshan/Top-Interview-150/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/arshuroshan/Programming-Workouts/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Enumeration
 |  |
@@ -1282,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/arshuroshan/Top-Interview-150/tree/master/1656-count-good-triplets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/arshuroshan/Top-Interview-150/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/arshuroshan/Top-Interview-150/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/arshuroshan/Programming-Workouts/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2215-finding-3-digit-even-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/arshuroshan/Top-Interview-150/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
