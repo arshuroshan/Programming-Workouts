@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/arshuroshan/Top-Interview-150/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/arshuroshan/Top-Interview-150/tree/master/3001-apply-operations-to-maximize-score) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/arshuroshan/Top-Interview-150/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/arshuroshan/Top-Interview-150/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/arshuroshan/Top-Interview-150/tree/master/2915-count-of-interesting-subarrays) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3427-special-array-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3618-find-the-original-typed-string-ii) |
@@ -1208,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
