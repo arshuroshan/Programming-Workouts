@@ -950,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/arshuroshan/Top-Interview-150/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/arshuroshan/Top-Interview-150/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/2069-walking-robot-simulation-ii) |
 | [2429-design-a-food-rating-system](https://github.com/arshuroshan/Top-Interview-150/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/arshuroshan/Top-Interview-150/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/arshuroshan/Top-Interview-150/tree/master/3678-design-task-manager) |
@@ -1054,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/arshuroshan/Top-Interview-150/tree/master/0498-diagonal-traverse) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2048-build-array-from-permutation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2048-build-array-from-permutation) |
+| [2069-walking-robot-simulation-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/2069-walking-robot-simulation-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/arshuroshan/Top-Interview-150/tree/master/2265-partition-array-according-to-given-pivot) |
