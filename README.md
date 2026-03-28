@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/arshuroshan/Top-Interview-150/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2573-find-the-string-with-lcp](https://github.com/arshuroshan/Top-Interview-150/tree/master/2573-find-the-string-with-lcp) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arshuroshan/Top-Interview-150/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/arshuroshan/Top-Interview-150/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1231,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/arshuroshan/Top-Interview-150/tree/master/1972-rotating-the-box) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/arshuroshan/Top-Interview-150/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2573-find-the-string-with-lcp](https://github.com/arshuroshan/Top-Interview-150/tree/master/2573-find-the-string-with-lcp) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -1290,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/arshuroshan/Top-Interview-150/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/arshuroshan/Top-Interview-150/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arshuroshan/Top-Interview-150/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/arshuroshan/Top-Interview-150/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -1454,6 +1457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/arshuroshan/Top-Interview-150/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/arshuroshan/Top-Interview-150/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -1532,6 +1536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/arshuroshan/Top-Interview-150/tree/master/0399-evaluate-division) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/arshuroshan/Top-Interview-150/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/arshuroshan/Top-Interview-150/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -1668,4 +1673,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/arshuroshan/Top-Interview-150/tree/master/2573-find-the-string-with-lcp) |
+## Graph Theory
+|  |
+| ------- |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 <!---LeetCode Topics End-->
