@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/arshuroshan/Top-Interview-150/tree/master/3643-flip-square-submatrix-vertically) |
 | [3647-zero-array-transformation-iii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/arshuroshan/Top-Interview-150/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/arshuroshan/Top-Interview-150/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/arshuroshan/Top-Interview-150/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/arshuroshan/Top-Interview-150/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/arshuroshan/Top-Interview-150/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0954-maximum-sum-circular-subarray](https://github.com/arshuroshan/Top-Interview-150/tree/master/0954-maximum-sum-circular-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/2280-count-good-triplets-in-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sorting
 |  |
 | ------- |
@@ -1082,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/arshuroshan/Top-Interview-150/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/arshuroshan/Top-Interview-150/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arshuroshan/Programming-Workouts/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
