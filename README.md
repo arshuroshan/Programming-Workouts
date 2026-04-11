@@ -1658,6 +1658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-group-sold-products-by-the-date](https://github.com/arshuroshan/Top-Interview-150/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/arshuroshan/Top-Interview-150/tree/master/1664-find-users-with-valid-e-mails) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/arshuroshan/Top-Interview-150/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/arshuroshan/Top-Interview-150/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1801-average-time-of-process-per-machine](https://github.com/arshuroshan/Top-Interview-150/tree/master/1801-average-time-of-process-per-machine) |
 | [1877-find-followers-count](https://github.com/arshuroshan/Top-Interview-150/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/arshuroshan/Top-Interview-150/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
