@@ -1670,6 +1670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-bank-account-summary-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/1587-bank-account-summary-ii) |
 | [1625-group-sold-products-by-the-date](https://github.com/arshuroshan/Top-Interview-150/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/arshuroshan/Top-Interview-150/tree/master/1664-find-users-with-valid-e-mails) |
+| [1693-daily-leads-and-partners](https://github.com/arshuroshan/Top-Interview-150/tree/master/1693-daily-leads-and-partners) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/arshuroshan/Top-Interview-150/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/arshuroshan/Top-Interview-150/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1801-average-time-of-process-per-machine](https://github.com/arshuroshan/Top-Interview-150/tree/master/1801-average-time-of-process-per-machine) |
