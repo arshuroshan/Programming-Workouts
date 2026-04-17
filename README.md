@@ -1663,6 +1663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-last-person-to-fit-in-the-bus](https://github.com/arshuroshan/Top-Interview-150/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/arshuroshan/Top-Interview-150/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/arshuroshan/Top-Interview-150/tree/master/1390-average-selling-price) |
+| [1393-capital-gainloss](https://github.com/arshuroshan/Top-Interview-150/tree/master/1393-capital-gainloss) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/arshuroshan/Top-Interview-150/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/arshuroshan/Top-Interview-150/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/arshuroshan/Top-Interview-150/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
