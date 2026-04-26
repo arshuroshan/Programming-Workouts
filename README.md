@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/arshuroshan/Top-Interview-150/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/1524-string-matching-in-an-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/arshuroshan/Top-Interview-150/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arshuroshan/Top-Interview-150/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/arshuroshan/Top-Interview-150/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1281,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/arshuroshan/Top-Interview-150/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/arshuroshan/Top-Interview-150/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/arshuroshan/Top-Interview-150/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/arshuroshan/Top-Interview-150/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/arshuroshan/Top-Interview-150/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/arshuroshan/Top-Interview-150/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1469,6 +1471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/arshuroshan/Top-Interview-150/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/arshuroshan/Top-Interview-150/tree/master/1558-course-schedule-iv) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/arshuroshan/Top-Interview-150/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2201-valid-arrangement-of-pairs](https://github.com/arshuroshan/Top-Interview-150/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1508,6 +1511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/arshuroshan/Top-Interview-150/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/arshuroshan/Top-Interview-150/tree/master/1558-course-schedule-iv) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/arshuroshan/Top-Interview-150/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1734,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/arshuroshan/Top-Interview-150/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/arshuroshan/Top-Interview-150/tree/master/2573-find-the-string-with-lcp) |
 ## Graph Theory
