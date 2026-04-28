@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/arshuroshan/Top-Interview-150/tree/master/1972-rotating-the-box) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/arshuroshan/Top-Interview-150/tree/master/2023-design-movie-rental-system) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2048-build-array-from-permutation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/arshuroshan/Top-Interview-150/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arshuroshan/Top-Interview-150/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/arshuroshan/Top-Interview-150/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arshuroshan/Top-Interview-150/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/arshuroshan/Top-Interview-150/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/arshuroshan/Top-Interview-150/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arshuroshan/Top-Interview-150/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/arshuroshan/Top-Interview-150/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/arshuroshan/Programming-Workouts/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/arshuroshan/Top-Interview-150/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/arshuroshan/Programming-Workouts/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1297,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/arshuroshan/Top-Interview-150/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/arshuroshan/Top-Interview-150/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1972-rotating-the-box](https://github.com/arshuroshan/Top-Interview-150/tree/master/1972-rotating-the-box) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/arshuroshan/Top-Interview-150/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2573-find-the-string-with-lcp](https://github.com/arshuroshan/Top-Interview-150/tree/master/2573-find-the-string-with-lcp) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
