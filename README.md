@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/arshuroshan/Top-Interview-150/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/arshuroshan/Top-Interview-150/tree/master/1306-jump-game-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/arshuroshan/Top-Interview-150/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1340-jump-game-v](https://github.com/arshuroshan/Top-Interview-150/tree/master/1340-jump-game-v) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/arshuroshan/Top-Interview-150/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/arshuroshan/Top-Interview-150/tree/master/1364-tuple-with-same-product) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/arshuroshan/Top-Interview-150/tree/master/0780-max-chunks-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/arshuroshan/Top-Interview-150/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/1256-rank-transform-of-an-array) |
+| [1340-jump-game-v](https://github.com/arshuroshan/Top-Interview-150/tree/master/1340-jump-game-v) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/arshuroshan/Top-Interview-150/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arshuroshan/Top-Interview-150/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/arshuroshan/Top-Interview-150/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/arshuroshan/Top-Interview-150/tree/master/0954-maximum-sum-circular-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/arshuroshan/Top-Interview-150/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/arshuroshan/Top-Interview-150/tree/master/1250-longest-common-subsequence) |
+| [1340-jump-game-v](https://github.com/arshuroshan/Top-Interview-150/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/arshuroshan/Top-Interview-150/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arshuroshan/Top-Interview-150/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/arshuroshan/Top-Interview-150/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
