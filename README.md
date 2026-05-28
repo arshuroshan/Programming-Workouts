@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/arshuroshan/Top-Interview-150/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3001-apply-operations-to-maximize-score](https://github.com/arshuroshan/Top-Interview-150/tree/master/3001-apply-operations-to-maximize-score) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3093-longest-common-suffix-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/3093-longest-common-suffix-queries) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/arshuroshan/Top-Interview-150/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/arshuroshan/Top-Interview-150/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/arshuroshan/Top-Interview-150/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3093-longest-common-suffix-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/arshuroshan/Top-Interview-150/tree/master/3194-find-words-containing-character) |
@@ -1091,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/arshuroshan/Top-Interview-150/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/arshuroshan/Top-Interview-150/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/2755-extra-characters-in-a-string) |
+| [3093-longest-common-suffix-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/3093-longest-common-suffix-queries) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arshuroshan/Top-Interview-150/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Recursion
