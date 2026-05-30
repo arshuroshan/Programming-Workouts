@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/3093-longest-common-suffix-queries) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3161-block-placement-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/3161-block-placement-queries) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/arshuroshan/Top-Interview-150/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/arshuroshan/Top-Interview-150/tree/master/3194-find-words-containing-character) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/arshuroshan/Top-Interview-150/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -1216,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/arshuroshan/Top-Interview-150/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3161-block-placement-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/3161-block-placement-queries) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3427-special-array-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arshuroshan/Top-Interview-150/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -1263,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/0729-my-calendar-i) |
 | [2280-count-good-triplets-in-an-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/2280-count-good-triplets-in-an-array) |
+| [3161-block-placement-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/3161-block-placement-queries) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/arshuroshan/Top-Interview-150/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -1810,6 +1813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/2280-count-good-triplets-in-an-array) |
+| [3161-block-placement-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/3161-block-placement-queries) |
 ## Probability and Statistics
 |  |
 | ------- |
