@@ -808,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/arshuroshan/Top-Interview-150/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/arshuroshan/Top-Interview-150/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/arshuroshan/Top-Interview-150/tree/master/0222-count-complete-tree-nodes) |
+| [0401-binary-watch](https://github.com/arshuroshan/Top-Interview-150/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/arshuroshan/Top-Interview-150/tree/master/0756-pyramid-transition-matrix) |
 | [1435-xor-queries-of-a-subarray](https://github.com/arshuroshan/Top-Interview-150/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arshuroshan/Top-Interview-150/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1457,6 +1458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/arshuroshan/Top-Interview-150/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/arshuroshan/Top-Interview-150/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0212-word-search-ii) |
+| [0401-binary-watch](https://github.com/arshuroshan/Top-Interview-150/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/arshuroshan/Top-Interview-150/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/arshuroshan/Top-Interview-150/tree/master/0756-pyramid-transition-matrix) |
