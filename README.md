@@ -610,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arshuroshan/Top-Interview-150/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/arshuroshan/Top-Interview-150/tree/master/3637-count-number-of-balanced-permutations) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/arshuroshan/Top-Interview-150/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/arshuroshan/Top-Interview-150/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/arshuroshan/Top-Interview-150/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -791,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/arshuroshan/Top-Interview-150/tree/master/3637-count-number-of-balanced-permutations) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/arshuroshan/Top-Interview-150/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -1288,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/arshuroshan/Top-Interview-150/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/arshuroshan/Top-Interview-150/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/arshuroshan/Top-Interview-150/tree/master/2868-continuous-subarrays) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3678-design-task-manager](https://github.com/arshuroshan/Top-Interview-150/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/arshuroshan/Top-Interview-150/tree/master/3827-implement-router) |
@@ -1620,6 +1623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/arshuroshan/Top-Interview-150/tree/master/2793-count-the-number-of-complete-components) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arshuroshan/Top-Interview-150/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1842,6 +1846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/arshuroshan/Top-Interview-150/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/arshuroshan/Top-Interview-150/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/arshuroshan/Top-Interview-150/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph Theory
 |  |
 | ------- |
