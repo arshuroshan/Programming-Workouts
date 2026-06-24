@@ -626,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/arshuroshan/Top-Interview-150/tree/master/3637-count-number-of-balanced-permutations) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/arshuroshan/Top-Interview-150/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/arshuroshan/Top-Interview-150/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/arshuroshan/Top-Interview-150/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/arshuroshan/Top-Interview-150/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -933,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/arshuroshan/Top-Interview-150/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/arshuroshan/Top-Interview-150/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/arshuroshan/Top-Interview-150/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Greedy
