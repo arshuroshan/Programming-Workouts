@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/arshuroshan/Top-Interview-150/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/arshuroshan/Top-Interview-150/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arshuroshan/Programming-Workouts/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1972-rotating-the-box](https://github.com/arshuroshan/Top-Interview-150/tree/master/1972-rotating-the-box) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/arshuroshan/Top-Interview-150/tree/master/2023-design-movie-rental-system) |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arshuroshan/Top-Interview-150/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/arshuroshan/Top-Interview-150/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/arshuroshan/Top-Interview-150/tree/master/1923-sentence-similarity-iii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arshuroshan/Programming-Workouts/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arshuroshan/Top-Interview-150/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arshuroshan/Top-Interview-150/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/arshuroshan/Top-Interview-150/tree/master/2140-longest-subsequence-repeated-k-times) |
