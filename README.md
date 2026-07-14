@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/arshuroshan/Programming-Workouts/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/arshuroshan/Top-Interview-150/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1340-jump-game-v](https://github.com/arshuroshan/Top-Interview-150/tree/master/1340-jump-game-v) |
+| [1345-jump-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1345-jump-game-iv/) | Hard |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/arshuroshan/Top-Interview-150/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/arshuroshan/Top-Interview-150/tree/master/1364-tuple-with-same-product) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/arshuroshan/Top-Interview-150/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1331-rank-transform-of-an-array](https://github.com/arshuroshan/Programming-Workouts/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1345-jump-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arshuroshan/Programming-Workouts/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1364-tuple-with-same-product](https://github.com/arshuroshan/Top-Interview-150/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1679,6 +1681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/arshuroshan/Top-Interview-150/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arshuroshan/Top-Interview-150/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/arshuroshan/Top-Interview-150/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1345-jump-game-iv/) | Hard |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/arshuroshan/Top-Interview-150/tree/master/1396-count-servers-that-communicate) |
