@@ -645,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arshuroshan/Top-Interview-150/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/arshuroshan/Top-Interview-150/tree/master/3637-count-number-of-balanced-permutations) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/arshuroshan/Programming-Workouts/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/arshuroshan/Top-Interview-150/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -1806,6 +1807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/arshuroshan/Top-Interview-150/tree/master/3001-apply-operations-to-maximize-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arshuroshan/Programming-Workouts/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arshuroshan/Top-Interview-150/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/arshuroshan/Programming-Workouts/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arshuroshan/Programming-Workouts/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Monotonic Queue
 | Problem Name | Difficulty |
