@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arshuroshan/Programming-Workouts/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1972-rotating-the-box](https://github.com/arshuroshan/Top-Interview-150/tree/master/1972-rotating-the-box) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/arshuroshan/Programming-Workouts/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/arshuroshan/Top-Interview-150/tree/master/2023-design-movie-rental-system) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/arshuroshan/Programming-Workouts/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/arshuroshan/Top-Interview-150/tree/master/1840-maximum-building-height) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/arshuroshan/Programming-Workouts/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/arshuroshan/Top-Interview-150/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1814,6 +1816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/arshuroshan/Programming-Workouts/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/arshuroshan/Top-Interview-150/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2716-prime-subtraction-operation) |
