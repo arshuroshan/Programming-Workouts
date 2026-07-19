@@ -775,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/arshuroshan/Top-Interview-150/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arshuroshan/Top-Interview-150/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1006-vowel-spellchecker](https://github.com/arshuroshan/Top-Interview-150/tree/master/1006-vowel-spellchecker) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/arshuroshan/Programming-Workouts/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/arshuroshan/Top-Interview-150/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/arshuroshan/Top-Interview-150/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/arshuroshan/Top-Interview-150/tree/master/1197-parsing-a-boolean-expression) |
@@ -999,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arshuroshan/Top-Interview-150/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/arshuroshan/Top-Interview-150/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/arshuroshan/Top-Interview-150/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/arshuroshan/Programming-Workouts/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1304-longest-happy-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/arshuroshan/Top-Interview-150/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/arshuroshan/Top-Interview-150/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -1100,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/arshuroshan/Top-Interview-150/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arshuroshan/Top-Interview-150/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/arshuroshan/Top-Interview-150/tree/master/1002-maximum-width-ramp) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/arshuroshan/Programming-Workouts/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1197-parsing-a-boolean-expression](https://github.com/arshuroshan/Top-Interview-150/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/arshuroshan/Top-Interview-150/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/arshuroshan/Top-Interview-150/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -1162,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/arshuroshan/Top-Interview-150/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/arshuroshan/Top-Interview-150/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/arshuroshan/Top-Interview-150/tree/master/1002-maximum-width-ramp) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/arshuroshan/Programming-Workouts/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/arshuroshan/Top-Interview-150/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/arshuroshan/Top-Interview-150/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arshuroshan/Top-Interview-150/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
