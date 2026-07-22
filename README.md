@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/arshuroshan/Programming-Workouts/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arshuroshan/Programming-Workouts/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3546-equal-sum-grid-partition-i) |
@@ -839,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/arshuroshan/Top-Interview-150/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3462-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3614-process-string-with-special-operations-ii) |
@@ -1316,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3427-special-array-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arshuroshan/Top-Interview-150/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arshuroshan/Programming-Workouts/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/arshuroshan/Top-Interview-150/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/arshuroshan/Programming-Workouts/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -1364,6 +1367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/0729-my-calendar-i) |
 | [2280-count-good-triplets-in-an-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/2280-count-good-triplets-in-an-array) |
 | [3161-block-placement-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/3161-block-placement-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3721-longest-balanced-subarray-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/arshuroshan/Top-Interview-150/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
