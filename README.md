@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/arshuroshan/Top-Interview-150/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/arshuroshan/Top-Interview-150/tree/master/3430-count-days-without-meetings) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arshuroshan/Top-Interview-150/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3536-maximum-product-of-two-digits](https://github.com/arshuroshan/Programming-Workouts/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/arshuroshan/Top-Interview-150/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3647-zero-array-transformation-iii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3647-zero-array-transformation-iii) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arshuroshan/Top-Interview-150/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/arshuroshan/Programming-Workouts/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3548-find-the-count-of-good-integers](https://github.com/arshuroshan/Top-Interview-150/tree/master/3548-find-the-count-of-good-integers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/arshuroshan/Programming-Workouts/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3600-find-the-k-th-character-in-string-game-i) |
