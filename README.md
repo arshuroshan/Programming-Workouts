@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/arshuroshan/Top-Interview-150/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/arshuroshan/Programming-Workouts/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/arshuroshan/Top-Interview-150/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/arshuroshan/Top-Interview-150/tree/master/0502-ipo) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/arshuroshan/Top-Interview-150/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/arshuroshan/Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/arshuroshan/Top-Interview-150/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/arshuroshan/Programming-Workouts/tree/main/0486-predict-the-winner/) | Medium |
 | [0539-minimum-time-difference](https://github.com/arshuroshan/Top-Interview-150/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arshuroshan/Programming-Workouts/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0670-maximum-swap](https://github.com/arshuroshan/Top-Interview-150/tree/master/0670-maximum-swap) |
@@ -950,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/arshuroshan/Top-Interview-150/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/arshuroshan/Top-Interview-150/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/arshuroshan/Programming-Workouts/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/arshuroshan/Top-Interview-150/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0788-rotated-digits](https://github.com/arshuroshan/Top-Interview-150/tree/master/0788-rotated-digits) |
@@ -1231,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/arshuroshan/Top-Interview-150/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/arshuroshan/Programming-Workouts/tree/main/0486-predict-the-winner/) | Medium |
 | [1197-parsing-a-boolean-expression](https://github.com/arshuroshan/Top-Interview-150/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2050-count-good-numbers) |
@@ -1987,6 +1991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/arshuroshan/Programming-Workouts/tree/main/0486-predict-the-winner/) | Medium |
 | [3462-vowels-game-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3462-vowels-game-in-a-string) |
 ## Union-Find
 | Problem Name | Difficulty |
