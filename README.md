@@ -669,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/arshuroshan/Programming-Workouts/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3321-type-of-triangle](https://github.com/arshuroshan/Top-Interview-150/tree/master/3321-type-of-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arshuroshan/Programming-Workouts/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3345-smallest-divisible-digit-product-i](https://github.com/arshuroshan/Programming-Workouts/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3462-vowels-game-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arshuroshan/Top-Interview-150/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -1624,6 +1625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2998-count-symmetric-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/arshuroshan/Programming-Workouts/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/arshuroshan/Programming-Workouts/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3546-equal-sum-grid-partition-i) |
