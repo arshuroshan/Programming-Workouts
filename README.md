@@ -670,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/arshuroshan/Top-Interview-150/tree/master/3321-type-of-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arshuroshan/Programming-Workouts/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arshuroshan/Programming-Workouts/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3462-vowels-game-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arshuroshan/Top-Interview-150/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arshuroshan/Programming-Workouts/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arshuroshan/Top-Interview-150/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3396-valid-word](https://github.com/arshuroshan/Top-Interview-150/tree/master/3396-valid-word) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arshuroshan/Top-Interview-150/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3462-vowels-game-in-a-string) |
@@ -1078,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/arshuroshan/Top-Interview-150/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arshuroshan/Programming-Workouts/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/arshuroshan/Top-Interview-150/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/arshuroshan/Top-Interview-150/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1616,6 +1619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/arshuroshan/Top-Interview-150/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/arshuroshan/Programming-Workouts/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1884,6 +1888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/arshuroshan/Top-Interview-150/tree/master/3001-apply-operations-to-maximize-score) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arshuroshan/Programming-Workouts/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arshuroshan/Programming-Workouts/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arshuroshan/Top-Interview-150/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arshuroshan/Programming-Workouts/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arshuroshan/Programming-Workouts/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
