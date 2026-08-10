@@ -646,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/arshuroshan/Top-Interview-150/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/arshuroshan/Top-Interview-150/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/arshuroshan/Top-Interview-150/tree/master/1500-count-largest-group) |
+| [1510-stone-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1510-stone-game-iv/) | Hard |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/arshuroshan/Top-Interview-150/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/arshuroshan/Programming-Workouts/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -985,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/arshuroshan/Top-Interview-150/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/arshuroshan/Top-Interview-150/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1510-stone-game-iv/) | Hard |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arshuroshan/Top-Interview-150/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/arshuroshan/Top-Interview-150/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/arshuroshan/Top-Interview-150/tree/master/1628-count-submatrices-with-all-ones) |
@@ -2026,6 +2028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/arshuroshan/Programming-Workouts/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1510-stone-game-iv/) | Hard |
 | [3462-vowels-game-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3462-vowels-game-in-a-string) |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -2058,8 +2061,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
