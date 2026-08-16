@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arshuroshan/Programming-Workouts/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/arshuroshan/Top-Interview-150/tree/master/2023-design-movie-rental-system) |
+| [2029-stone-game-ix](https://github.com/arshuroshan/Programming-Workouts/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2048-build-array-from-permutation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/arshuroshan/Top-Interview-150/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/arshuroshan/Top-Interview-150/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/arshuroshan/Top-Interview-150/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/arshuroshan/Top-Interview-150/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2029-stone-game-ix](https://github.com/arshuroshan/Programming-Workouts/tree/main/2029-stone-game-ix/) | Medium |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/arshuroshan/Top-Interview-150/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/arshuroshan/Programming-Workouts/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/arshuroshan/Top-Interview-150/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/arshuroshan/Programming-Workouts/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/arshuroshan/Top-Interview-150/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arshuroshan/Programming-Workouts/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/arshuroshan/Programming-Workouts/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/arshuroshan/Top-Interview-150/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1073,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/arshuroshan/Top-Interview-150/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/arshuroshan/Top-Interview-150/tree/master/1833-maximum-ice-cream-bars) |
 | [1917-maximum-average-pass-ratio](https://github.com/arshuroshan/Top-Interview-150/tree/master/1917-maximum-average-pass-ratio) |
+| [2029-stone-game-ix](https://github.com/arshuroshan/Programming-Workouts/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arshuroshan/Top-Interview-150/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arshuroshan/Top-Interview-150/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2126-destroying-asteroids](https://github.com/arshuroshan/Top-Interview-150/tree/master/2126-destroying-asteroids) |
@@ -2042,6 +2046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/arshuroshan/Programming-Workouts/tree/main/2029-stone-game-ix/) | Medium |
 | [3462-vowels-game-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3462-vowels-game-in-a-string) |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -2075,15 +2080,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/arshuroshan/Programming-Workouts/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/arshuroshan/Programming-Workouts/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/arshuroshan/Programming-Workouts/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
