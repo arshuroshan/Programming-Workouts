@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/1524-string-matching-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/arshuroshan/Programming-Workouts/tree/main/1563-stone-game-v/) | Hard |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/arshuroshan/Top-Interview-150/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/arshuroshan/Programming-Workouts/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arshuroshan/Top-Interview-150/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/arshuroshan/Top-Interview-150/tree/master/1500-count-largest-group) |
 | [1510-stone-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1510-stone-game-iv/) | Hard |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/arshuroshan/Top-Interview-150/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1563-stone-game-v](https://github.com/arshuroshan/Programming-Workouts/tree/main/1563-stone-game-v/) | Hard |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/arshuroshan/Programming-Workouts/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/arshuroshan/Top-Interview-150/tree/master/1840-maximum-building-height) |
@@ -999,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/arshuroshan/Top-Interview-150/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/arshuroshan/Programming-Workouts/tree/main/1563-stone-game-v/) | Hard |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arshuroshan/Top-Interview-150/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/arshuroshan/Top-Interview-150/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/arshuroshan/Top-Interview-150/tree/master/1628-count-submatrices-with-all-ones) |
@@ -2046,6 +2049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/arshuroshan/Programming-Workouts/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/arshuroshan/Programming-Workouts/tree/main/2029-stone-game-ix/) | Medium |
 | [3462-vowels-game-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3462-vowels-game-in-a-string) |
 ## Union-Find
