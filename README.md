@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/arshuroshan/Top-Interview-150/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arshuroshan/Top-Interview-150/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/arshuroshan/Programming-Workouts/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3483-alternating-groups-ii) |
 | [3488-closest-equal-element-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/3488-closest-equal-element-queries) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/arshuroshan/Top-Interview-150/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/arshuroshan/Top-Interview-150/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arshuroshan/Top-Interview-150/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/arshuroshan/Programming-Workouts/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/arshuroshan/Programming-Workouts/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
