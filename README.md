@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1345-jump-game-iv/) | Hard |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/arshuroshan/Top-Interview-150/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/arshuroshan/Top-Interview-150/tree/master/1364-tuple-with-same-product) |
+| [1386-cinema-seat-allocation](https://github.com/arshuroshan/Programming-Workouts/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/arshuroshan/Top-Interview-150/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/arshuroshan/Top-Interview-150/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arshuroshan/Programming-Workouts/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1364-tuple-with-same-product](https://github.com/arshuroshan/Top-Interview-150/tree/master/1364-tuple-with-same-product) |
+| [1386-cinema-seat-allocation](https://github.com/arshuroshan/Programming-Workouts/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arshuroshan/Top-Interview-150/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/arshuroshan/Top-Interview-150/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/arshuroshan/Top-Interview-150/tree/master/0222-count-complete-tree-nodes) |
 | [0401-binary-watch](https://github.com/arshuroshan/Top-Interview-150/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/arshuroshan/Top-Interview-150/tree/master/0756-pyramid-transition-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/arshuroshan/Programming-Workouts/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1435-xor-queries-of-a-subarray](https://github.com/arshuroshan/Top-Interview-150/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/arshuroshan/Top-Interview-150/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arshuroshan/Top-Interview-150/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1072,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/arshuroshan/Top-Interview-150/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arshuroshan/Programming-Workouts/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1304-longest-happy-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/1304-longest-happy-string) |
+| [1386-cinema-seat-allocation](https://github.com/arshuroshan/Programming-Workouts/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1502-construct-k-palindrome-strings](https://github.com/arshuroshan/Top-Interview-150/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/arshuroshan/Top-Interview-150/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
