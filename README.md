@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/arshuroshan/Top-Interview-150/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/arshuroshan/Top-Interview-150/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/arshuroshan/Top-Interview-150/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arshuroshan/Top-Interview-150/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arshuroshan/Top-Interview-150/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/1914-cyclically-rotating-a-grid) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/arshuroshan/Programming-Workouts/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/arshuroshan/Top-Interview-150/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/arshuroshan/Programming-Workouts/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arshuroshan/Programming-Workouts/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/arshuroshan/Programming-Workouts/tree/main/2029-stone-game-ix/) | Medium |
@@ -1020,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/arshuroshan/Top-Interview-150/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1871-jump-game-vii](https://github.com/arshuroshan/Top-Interview-150/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1872-stone-game-viii/) | Hard |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/arshuroshan/Top-Interview-150/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/arshuroshan/Top-Interview-150/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/arshuroshan/Top-Interview-150/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -1141,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/arshuroshan/Top-Interview-150/tree/master/1694-make-sum-divisible-by-p) |
 | [1871-jump-game-vii](https://github.com/arshuroshan/Top-Interview-150/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1872-stone-game-viii/) | Hard |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arshuroshan/Top-Interview-150/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/arshuroshan/Top-Interview-150/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -2067,6 +2071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/arshuroshan/Programming-Workouts/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/arshuroshan/Programming-Workouts/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/arshuroshan/Programming-Workouts/tree/main/2029-stone-game-ix/) | Medium |
 | [3462-vowels-game-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3462-vowels-game-in-a-string) |
@@ -2102,12 +2107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/arshuroshan/Programming-Workouts/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/arshuroshan/Programming-Workouts/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
