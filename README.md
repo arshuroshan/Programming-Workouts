@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/arshuroshan/Top-Interview-150/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/arshuroshan/Top-Interview-150/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3689-maximum-total-subarray-value-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/arshuroshan/Programming-Workouts/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3721-longest-balanced-subarray-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/arshuroshan/Programming-Workouts/tree/main/3731-find-missing-elements/) | Easy |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/arshuroshan/Top-Interview-150/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/arshuroshan/Top-Interview-150/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/arshuroshan/Top-Interview-150/tree/master/3678-design-task-manager) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/arshuroshan/Programming-Workouts/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3721-longest-balanced-subarray-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/arshuroshan/Programming-Workouts/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3737-count-subarrays-with-majority-element-i) |
