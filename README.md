@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/arshuroshan/Top-Interview-150/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/arshuroshan/Top-Interview-150/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arshuroshan/Top-Interview-150/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/arshuroshan/Programming-Workouts/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/arshuroshan/Top-Interview-150/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/arshuroshan/Top-Interview-150/tree/master/2126-destroying-asteroids) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/arshuroshan/Top-Interview-150/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -1107,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/arshuroshan/Programming-Workouts/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/arshuroshan/Programming-Workouts/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arshuroshan/Top-Interview-150/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/arshuroshan/Programming-Workouts/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/arshuroshan/Top-Interview-150/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2126-destroying-asteroids](https://github.com/arshuroshan/Top-Interview-150/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/arshuroshan/Top-Interview-150/tree/master/2140-longest-subsequence-repeated-k-times) |
