@@ -1756,6 +1756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arshuroshan/Top-Interview-150/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/arshuroshan/Top-Interview-150/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arshuroshan/Programming-Workouts/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/arshuroshan/Top-Interview-150/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1807,6 +1808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/arshuroshan/Top-Interview-150/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2201-valid-arrangement-of-pairs](https://github.com/arshuroshan/Top-Interview-150/tree/master/2201-valid-arrangement-of-pairs) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arshuroshan/Programming-Workouts/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arshuroshan/Programming-Workouts/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1902,6 +1904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arshuroshan/Top-Interview-150/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/arshuroshan/Top-Interview-150/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arshuroshan/Programming-Workouts/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/arshuroshan/Top-Interview-150/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/arshuroshan/Top-Interview-150/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
