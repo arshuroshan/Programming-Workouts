@@ -667,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/arshuroshan/Top-Interview-150/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/arshuroshan/Top-Interview-150/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/arshuroshan/Top-Interview-150/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/arshuroshan/Programming-Workouts/tree/main/0836-rectangle-overlap/) | Easy |
 | [0867-new-21-game](https://github.com/arshuroshan/Top-Interview-150/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/arshuroshan/Programming-Workouts/tree/main/0877-stone-game/) | Medium |
 | [1018-largest-perimeter-triangle](https://github.com/arshuroshan/Top-Interview-150/tree/master/1018-largest-perimeter-triangle) |
@@ -2022,6 +2023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/arshuroshan/Top-Interview-150/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/arshuroshan/Top-Interview-150/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/arshuroshan/Programming-Workouts/tree/main/0836-rectangle-overlap/) | Easy |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arshuroshan/Top-Interview-150/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
