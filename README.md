@@ -677,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/arshuroshan/Top-Interview-150/tree/master/1018-largest-perimeter-triangle) |
 | [1140-stone-game-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/arshuroshan/Top-Interview-150/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/arshuroshan/Programming-Workouts/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1406-stone-game-iii/) | Hard |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arshuroshan/Top-Interview-150/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arshuroshan/Top-Interview-150/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -2040,6 +2041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/arshuroshan/Top-Interview-150/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/arshuroshan/Top-Interview-150/tree/master/0830-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/arshuroshan/Programming-Workouts/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/arshuroshan/Programming-Workouts/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arshuroshan/Top-Interview-150/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
