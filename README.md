@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/arshuroshan/Top-Interview-150/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/arshuroshan/Top-Interview-150/tree/master/1656-count-good-triplets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arshuroshan/Programming-Workouts/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/arshuroshan/Top-Interview-150/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arshuroshan/Top-Interview-150/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/arshuroshan/Top-Interview-150/tree/master/1694-make-sum-divisible-by-p) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arshuroshan/Programming-Workouts/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arshuroshan/Programming-Workouts/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1694-make-sum-divisible-by-p](https://github.com/arshuroshan/Top-Interview-150/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arshuroshan/Top-Interview-150/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/arshuroshan/Top-Interview-150/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -1194,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/arshuroshan/Programming-Workouts/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arshuroshan/Programming-Workouts/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1694-make-sum-divisible-by-p](https://github.com/arshuroshan/Top-Interview-150/tree/master/1694-make-sum-divisible-by-p) |
 | [1871-jump-game-vii](https://github.com/arshuroshan/Top-Interview-150/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1872-stone-game-viii/) | Hard |
@@ -1445,6 +1448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/arshuroshan/Top-Interview-150/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arshuroshan/Programming-Workouts/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arshuroshan/Top-Interview-150/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arshuroshan/Programming-Workouts/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/arshuroshan/Top-Interview-150/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/arshuroshan/Top-Interview-150/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -1491,6 +1495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arshuroshan/Top-Interview-150/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arshuroshan/Programming-Workouts/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arshuroshan/Top-Interview-150/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arshuroshan/Programming-Workouts/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1755-defuse-the-bomb](https://github.com/arshuroshan/Top-Interview-150/tree/master/1755-defuse-the-bomb) |
 | [1871-jump-game-vii](https://github.com/arshuroshan/Top-Interview-150/tree/master/1871-jump-game-vii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/arshuroshan/Top-Interview-150/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
