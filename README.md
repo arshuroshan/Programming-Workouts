@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/arshuroshan/Top-Interview-150/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/arshuroshan/Top-Interview-150/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/arshuroshan/Top-Interview-150/tree/master/1006-vowel-spellchecker) |
+| [1096-brace-expansion-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/arshuroshan/Top-Interview-150/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/arshuroshan/Top-Interview-150/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arshuroshan/Top-Interview-150/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arshuroshan/Top-Interview-150/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/arshuroshan/Top-Interview-150/tree/master/0780-max-chunks-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/arshuroshan/Top-Interview-150/tree/master/1018-largest-perimeter-triangle) |
+| [1096-brace-expansion-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1256-rank-transform-of-an-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/1256-rank-transform-of-an-array) |
 | [1288-remove-covered-intervals](https://github.com/arshuroshan/Programming-Workouts/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/arshuroshan/Programming-Workouts/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/arshuroshan/Top-Interview-150/tree/master/1006-vowel-spellchecker) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arshuroshan/Programming-Workouts/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/arshuroshan/Top-Interview-150/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1160-letter-tile-possibilities](https://github.com/arshuroshan/Top-Interview-150/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/arshuroshan/Top-Interview-150/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/arshuroshan/Top-Interview-150/tree/master/1250-longest-common-subsequence) |
@@ -1252,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arshuroshan/Top-Interview-150/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/arshuroshan/Top-Interview-150/tree/master/1002-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arshuroshan/Programming-Workouts/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1197-parsing-a-boolean-expression](https://github.com/arshuroshan/Top-Interview-150/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/arshuroshan/Top-Interview-150/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/arshuroshan/Top-Interview-150/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -1733,6 +1737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/arshuroshan/Top-Interview-150/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/arshuroshan/Top-Interview-150/tree/master/0756-pyramid-transition-matrix) |
+| [1096-brace-expansion-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1160-letter-tile-possibilities](https://github.com/arshuroshan/Top-Interview-150/tree/master/1160-letter-tile-possibilities) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/arshuroshan/Top-Interview-150/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/arshuroshan/Top-Interview-150/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1887,6 +1892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/arshuroshan/Top-Interview-150/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/arshuroshan/Top-Interview-150/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/arshuroshan/Top-Interview-150/tree/master/1036-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arshuroshan/Top-Interview-150/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/arshuroshan/Top-Interview-150/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1345-jump-game-iv/) | Hard |
