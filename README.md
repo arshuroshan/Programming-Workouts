@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/arshuroshan/Top-Interview-150/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/arshuroshan/Top-Interview-150/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/arshuroshan/Top-Interview-150/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arshuroshan/Programming-Workouts/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2280-count-good-triplets-in-an-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/arshuroshan/Top-Interview-150/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -1082,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/arshuroshan/Top-Interview-150/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/arshuroshan/Top-Interview-150/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/arshuroshan/Top-Interview-150/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arshuroshan/Programming-Workouts/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/arshuroshan/Top-Interview-150/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2463-minimum-total-distance-traveled](https://github.com/arshuroshan/Top-Interview-150/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arshuroshan/Programming-Workouts/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -1639,6 +1641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/1914-cyclically-rotating-a-grid) |
 | [1972-rotating-the-box](https://github.com/arshuroshan/Top-Interview-150/tree/master/1972-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arshuroshan/Programming-Workouts/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/arshuroshan/Top-Interview-150/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2573-find-the-string-with-lcp](https://github.com/arshuroshan/Top-Interview-150/tree/master/2573-find-the-string-with-lcp) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -2220,4 +2223,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arshuroshan/Programming-Workouts/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arshuroshan/Programming-Workouts/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
