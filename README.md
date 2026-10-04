@@ -868,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/arshuroshan/Top-Interview-150/tree/master/0539-minimum-time-difference) |
 | [0657-robot-return-to-origin](https://github.com/arshuroshan/Top-Interview-150/tree/master/0657-robot-return-to-origin) |
 | [0676-implement-magic-dictionary](https://github.com/arshuroshan/Programming-Workouts/tree/main/0676-implement-magic-dictionary/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/arshuroshan/Programming-Workouts/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0756-pyramid-transition-matrix](https://github.com/arshuroshan/Top-Interview-150/tree/master/0756-pyramid-transition-matrix) |
 | [0812-rotate-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arshuroshan/Top-Interview-150/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1050,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/arshuroshan/Programming-Workouts/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/0494-target-sum) |
+| [0678-valid-parenthesis-string](https://github.com/arshuroshan/Programming-Workouts/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/arshuroshan/Top-Interview-150/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0788-rotated-digits](https://github.com/arshuroshan/Top-Interview-150/tree/master/0788-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/arshuroshan/Top-Interview-150/tree/master/0806-domino-and-tromino-tiling) |
@@ -1135,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/arshuroshan/Top-Interview-150/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arshuroshan/Top-Interview-150/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/arshuroshan/Top-Interview-150/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/arshuroshan/Programming-Workouts/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0780-max-chunks-to-make-sorted](https://github.com/arshuroshan/Top-Interview-150/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/arshuroshan/Top-Interview-150/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arshuroshan/Top-Interview-150/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1254,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/arshuroshan/Top-Interview-150/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/arshuroshan/Top-Interview-150/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/arshuroshan/Programming-Workouts/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/arshuroshan/Top-Interview-150/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/arshuroshan/Top-Interview-150/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arshuroshan/Top-Interview-150/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -2226,6 +2230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/arshuroshan/Programming-Workouts/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/arshuroshan/Programming-Workouts/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/arshuroshan/Programming-Workouts/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arshuroshan/Programming-Workouts/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arshuroshan/Programming-Workouts/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arshuroshan/Programming-Workouts/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
