@@ -2229,6 +2229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/arshuroshan/Programming-Workouts/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/arshuroshan/Programming-Workouts/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/arshuroshan/Programming-Workouts/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/arshuroshan/Programming-Workouts/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arshuroshan/Programming-Workouts/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
