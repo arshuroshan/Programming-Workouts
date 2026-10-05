@@ -873,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/arshuroshan/Programming-Workouts/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0756-pyramid-transition-matrix](https://github.com/arshuroshan/Top-Interview-150/tree/master/0756-pyramid-transition-matrix) |
 | [0812-rotate-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/0812-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/arshuroshan/Programming-Workouts/tree/main/0856-score-of-parentheses/) | Medium |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arshuroshan/Top-Interview-150/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-distinct-subsequences-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0952-word-subsets](https://github.com/arshuroshan/Top-Interview-150/tree/master/0952-word-subsets) |
@@ -1263,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/arshuroshan/Programming-Workouts/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/arshuroshan/Top-Interview-150/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/arshuroshan/Top-Interview-150/tree/master/0780-max-chunks-to-make-sorted) |
+| [0856-score-of-parentheses](https://github.com/arshuroshan/Programming-Workouts/tree/main/0856-score-of-parentheses/) | Medium |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arshuroshan/Top-Interview-150/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/arshuroshan/Top-Interview-150/tree/master/1002-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arshuroshan/Programming-Workouts/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -2237,6 +2239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/arshuroshan/Programming-Workouts/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/arshuroshan/Programming-Workouts/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/arshuroshan/Programming-Workouts/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/arshuroshan/Programming-Workouts/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/arshuroshan/Programming-Workouts/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arshuroshan/Programming-Workouts/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arshuroshan/Programming-Workouts/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
