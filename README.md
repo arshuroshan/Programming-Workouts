@@ -864,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/arshuroshan/Top-Interview-150/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arshuroshan/Top-Interview-150/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/arshuroshan/Top-Interview-150/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/arshuroshan/Programming-Workouts/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0394-decode-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/arshuroshan/Top-Interview-150/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/arshuroshan/Top-Interview-150/tree/master/0433-minimum-genetic-mutation) |
@@ -1754,6 +1755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/arshuroshan/Top-Interview-150/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/arshuroshan/Top-Interview-150/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/arshuroshan/Programming-Workouts/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0401-binary-watch](https://github.com/arshuroshan/Top-Interview-150/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/arshuroshan/Top-Interview-150/tree/master/0679-24-game) |
@@ -1903,6 +1905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/arshuroshan/Top-Interview-150/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/arshuroshan/Top-Interview-150/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/arshuroshan/Programming-Workouts/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0399-evaluate-division](https://github.com/arshuroshan/Top-Interview-150/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/arshuroshan/Top-Interview-150/tree/master/0433-minimum-genetic-mutation) |
