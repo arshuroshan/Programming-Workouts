@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/arshuroshan/Top-Interview-150/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/arshuroshan/Programming-Workouts/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/arshuroshan/Top-Interview-150/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/arshuroshan/Top-Interview-150/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arshuroshan/Top-Interview-150/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2215-finding-3-digit-even-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/arshuroshan/Programming-Workouts/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/arshuroshan/Top-Interview-150/tree/master/2463-minimum-total-distance-traveled) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arshuroshan/Top-Interview-150/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -1177,6 +1179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/arshuroshan/Top-Interview-150/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/arshuroshan/Top-Interview-150/tree/master/2300-construct-string-with-repeat-limit) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/arshuroshan/Programming-Workouts/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arshuroshan/Programming-Workouts/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -1486,6 +1489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/arshuroshan/Top-Interview-150/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arshuroshan/Top-Interview-150/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/2280-count-good-triplets-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/arshuroshan/Programming-Workouts/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/arshuroshan/Top-Interview-150/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/arshuroshan/Top-Interview-150/tree/master/2690-house-robber-iv) |
@@ -1728,6 +1732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/arshuroshan/Top-Interview-150/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/arshuroshan/Top-Interview-150/tree/master/2300-construct-string-with-repeat-limit) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/arshuroshan/Programming-Workouts/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/arshuroshan/Top-Interview-150/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2429-design-a-food-rating-system](https://github.com/arshuroshan/Top-Interview-150/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/arshuroshan/Top-Interview-150/tree/master/2434-design-a-number-container-system) |
