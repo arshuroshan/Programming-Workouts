@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/arshuroshan/Top-Interview-150/tree/master/3827-implement-router) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arshuroshan/Programming-Workouts/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/arshuroshan/Programming-Workouts/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/arshuroshan/Programming-Workouts/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3904-smallest-stable-index-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/arshuroshan/Programming-Workouts/tree/main/3731-find-missing-elements/) | Easy |
 | [3748-sort-matrix-by-diagonals](https://github.com/arshuroshan/Top-Interview-150/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arshuroshan/Programming-Workouts/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/arshuroshan/Programming-Workouts/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/arshuroshan/Programming-Workouts/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/arshuroshan/Programming-Workouts/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/arshuroshan/Programming-Workouts/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1819,6 +1822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/arshuroshan/Top-Interview-150/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3886-sum-of-sortable-integers](https://github.com/arshuroshan/Programming-Workouts/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
