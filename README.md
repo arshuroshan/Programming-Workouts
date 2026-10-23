@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-zero-array-transformation-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/arshuroshan/Top-Interview-150/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/arshuroshan/Programming-Workouts/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3647-zero-array-transformation-iii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/arshuroshan/Top-Interview-150/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -1037,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/arshuroshan/Programming-Workouts/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/arshuroshan/Programming-Workouts/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/arshuroshan/Top-Interview-150/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Dynamic Programming
