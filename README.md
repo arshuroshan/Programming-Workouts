@@ -725,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/arshuroshan/Programming-Workouts/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/arshuroshan/Top-Interview-150/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2409-count-days-spent-together](https://github.com/arshuroshan/Programming-Workouts/tree/main/2409-count-days-spent-together/) | Easy |
 | [2432-number-of-zero-filled-subarrays](https://github.com/arshuroshan/Top-Interview-150/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/arshuroshan/Top-Interview-150/tree/master/2610-closest-prime-numbers-in-range) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/arshuroshan/Top-Interview-150/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -943,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/arshuroshan/Top-Interview-150/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/arshuroshan/Top-Interview-150/tree/master/2300-construct-string-with-repeat-limit) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/arshuroshan/Programming-Workouts/tree/main/2409-count-days-spent-together/) | Easy |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2429-design-a-food-rating-system](https://github.com/arshuroshan/Top-Interview-150/tree/master/2429-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/arshuroshan/Top-Interview-150/tree/master/2452-words-within-two-edits-of-dictionary) |
