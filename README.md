@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/arshuroshan/Programming-Workouts/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/arshuroshan/Top-Interview-150/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/arshuroshan/Top-Interview-150/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arshuroshan/Programming-Workouts/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/arshuroshan/Programming-Workouts/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1724,6 +1725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/arshuroshan/Top-Interview-150/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arshuroshan/Programming-Workouts/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/arshuroshan/Top-Interview-150/tree/master/3643-flip-square-submatrix-vertically) |
@@ -1945,6 +1947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/arshuroshan/Programming-Workouts/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/arshuroshan/Programming-Workouts/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/arshuroshan/Top-Interview-150/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arshuroshan/Programming-Workouts/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/arshuroshan/Programming-Workouts/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
@@ -2000,6 +2003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshuroshan/Programming-Workouts/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/arshuroshan/Programming-Workouts/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/arshuroshan/Programming-Workouts/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arshuroshan/Programming-Workouts/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arshuroshan/Top-Interview-150/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -2262,6 +2266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arshuroshan/Programming-Workouts/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arshuroshan/Programming-Workouts/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/arshuroshan/Top-Interview-150/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arshuroshan/Programming-Workouts/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph Theory
 | Problem Name | Difficulty |
