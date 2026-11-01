@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/arshuroshan/Programming-Workouts/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/arshuroshan/Programming-Workouts/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/arshuroshan/Top-Interview-150/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/arshuroshan/Top-Interview-150/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arshuroshan/Programming-Workouts/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arshuroshan/Programming-Workouts/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-find-the-count-of-good-integers](https://github.com/arshuroshan/Top-Interview-150/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/arshuroshan/Programming-Workouts/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/arshuroshan/Top-Interview-150/tree/master/3430-count-days-without-meetings) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arshuroshan/Top-Interview-150/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3536-maximum-product-of-two-digits](https://github.com/arshuroshan/Programming-Workouts/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/arshuroshan/Programming-Workouts/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/arshuroshan/Top-Interview-150/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3647-zero-array-transformation-iii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3647-zero-array-transformation-iii) |
