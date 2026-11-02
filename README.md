@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/arshuroshan/Top-Interview-150/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/arshuroshan/Programming-Workouts/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/arshuroshan/Programming-Workouts/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/arshuroshan/Top-Interview-150/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/arshuroshan/Top-Interview-150/tree/master/0498-diagonal-traverse) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/arshuroshan/Top-Interview-150/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/arshuroshan/Top-Interview-150/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/arshuroshan/Top-Interview-150/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0502-ipo](https://github.com/arshuroshan/Top-Interview-150/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/arshuroshan/Top-Interview-150/tree/master/0539-minimum-time-difference) |
 | [0611-valid-triangle-number](https://github.com/arshuroshan/Top-Interview-150/tree/master/0611-valid-triangle-number) |
@@ -699,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/arshuroshan/Top-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/arshuroshan/Top-Interview-150/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/arshuroshan/Programming-Workouts/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/arshuroshan/Programming-Workouts/tree/main/0486-predict-the-winner/) | Medium |
 | [0539-minimum-time-difference](https://github.com/arshuroshan/Top-Interview-150/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arshuroshan/Programming-Workouts/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
