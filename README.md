@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/arshuroshan/Programming-Workouts/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/arshuroshan/Programming-Workouts/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arshuroshan/Programming-Workouts/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/arshuroshan/Programming-Workouts/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/arshuroshan/Programming-Workouts/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/arshuroshan/Programming-Workouts/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arshuroshan/Programming-Workouts/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3462-vowels-game-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arshuroshan/Top-Interview-150/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/arshuroshan/Programming-Workouts/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arshuroshan/Programming-Workouts/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -1161,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/arshuroshan/Programming-Workouts/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/arshuroshan/Programming-Workouts/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/arshuroshan/Programming-Workouts/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/arshuroshan/Top-Interview-150/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3618-find-the-original-typed-string-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3618-find-the-original-typed-string-ii) |
@@ -1602,6 +1606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3483-alternating-groups-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/arshuroshan/Programming-Workouts/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -1801,6 +1806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arshuroshan/Programming-Workouts/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2868-continuous-subarrays](https://github.com/arshuroshan/Top-Interview-150/tree/master/2868-continuous-subarrays) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/arshuroshan/Programming-Workouts/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/arshuroshan/Programming-Workouts/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3620-network-recovery-pathways](https://github.com/arshuroshan/Programming-Workouts/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
