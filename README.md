@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/arshuroshan/Programming-Workouts/tree/main/1345-jump-game-iv/) | Hard |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/arshuroshan/Top-Interview-150/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/arshuroshan/Top-Interview-150/tree/master/1364-tuple-with-same-product) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/arshuroshan/Programming-Workouts/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/arshuroshan/Programming-Workouts/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/arshuroshan/Top-Interview-150/tree/master/1396-count-servers-that-communicate) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/arshuroshan/Programming-Workouts/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/arshuroshan/Programming-Workouts/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/arshuroshan/Top-Interview-150/tree/master/1340-jump-game-v) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/arshuroshan/Programming-Workouts/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arshuroshan/Programming-Workouts/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1468-check-if-n-and-its-double-exist](https://github.com/arshuroshan/Top-Interview-150/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arshuroshan/Programming-Workouts/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/arshuroshan/Top-Interview-150/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/arshuroshan/Top-Interview-150/tree/master/0295-find-median-from-data-stream) |
 | [0611-valid-triangle-number](https://github.com/arshuroshan/Top-Interview-150/tree/master/0611-valid-triangle-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/arshuroshan/Programming-Workouts/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1468-check-if-n-and-its-double-exist](https://github.com/arshuroshan/Top-Interview-150/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/arshuroshan/Top-Interview-150/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arshuroshan/Top-Interview-150/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1533,6 +1536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/0729-my-calendar-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arshuroshan/Top-Interview-150/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/arshuroshan/Top-Interview-150/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/arshuroshan/Programming-Workouts/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1468-check-if-n-and-its-double-exist](https://github.com/arshuroshan/Top-Interview-150/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arshuroshan/Programming-Workouts/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/arshuroshan/Top-Interview-150/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
