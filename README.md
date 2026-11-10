@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/arshuroshan/Top-Interview-150/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3665-twisted-mirror-path-count](https://github.com/arshuroshan/Programming-Workouts/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/arshuroshan/Programming-Workouts/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arshuroshan/Programming-Workouts/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3721-longest-balanced-subarray-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3721-longest-balanced-subarray-ii) |
@@ -1186,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/arshuroshan/Top-Interview-150/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/arshuroshan/Top-Interview-150/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3665-twisted-mirror-path-count](https://github.com/arshuroshan/Programming-Workouts/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/arshuroshan/Top-Interview-150/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
