@@ -806,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/arshuroshan/Top-Interview-150/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arshuroshan/Programming-Workouts/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/arshuroshan/Top-Interview-150/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/arshuroshan/Programming-Workouts/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3830-find-closest-person](https://github.com/arshuroshan/Top-Interview-150/tree/master/3830-find-closest-person) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arshuroshan/Programming-Workouts/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/arshuroshan/Programming-Workouts/tree/main/3870-count-commas-in-range/) | Easy |
@@ -1272,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/arshuroshan/Top-Interview-150/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/arshuroshan/Programming-Workouts/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
