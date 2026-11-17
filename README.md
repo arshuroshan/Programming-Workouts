@@ -868,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/arshuroshan/Top-Interview-150/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/arshuroshan/Top-Interview-150/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arshuroshan/Top-Interview-150/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/arshuroshan/Programming-Workouts/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3195-separate-black-and-white-balls](https://github.com/arshuroshan/Top-Interview-150/tree/master/3195-separate-black-and-white-balls) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arshuroshan/Programming-Workouts/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -999,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/arshuroshan/Top-Interview-150/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arshuroshan/Programming-Workouts/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/arshuroshan/Programming-Workouts/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arshuroshan/Programming-Workouts/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arshuroshan/Programming-Workouts/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -1170,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/arshuroshan/Top-Interview-150/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/arshuroshan/Top-Interview-150/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/arshuroshan/Top-Interview-150/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/arshuroshan/Programming-Workouts/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/arshuroshan/Programming-Workouts/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/arshuroshan/Top-Interview-150/tree/master/3225-maximum-score-from-grid-operations) |
