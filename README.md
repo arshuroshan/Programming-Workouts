@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/arshuroshan/Programming-Workouts/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arshuroshan/Top-Interview-150/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/arshuroshan/Programming-Workouts/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/arshuroshan/Programming-Workouts/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/arshuroshan/Programming-Workouts/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3427-special-array-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3427-special-array-ii) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arshuroshan/Programming-Workouts/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arshuroshan/Programming-Workouts/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/arshuroshan/Programming-Workouts/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3462-vowels-game-in-a-string](https://github.com/arshuroshan/Top-Interview-150/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/arshuroshan/Top-Interview-150/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/arshuroshan/Programming-Workouts/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -1644,6 +1646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/arshuroshan/Programming-Workouts/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/arshuroshan/Programming-Workouts/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/arshuroshan/Programming-Workouts/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3483-alternating-groups-ii) |
@@ -1903,6 +1906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/arshuroshan/Top-Interview-150/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/arshuroshan/Top-Interview-150/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arshuroshan/Programming-Workouts/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/arshuroshan/Programming-Workouts/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/arshuroshan/Programming-Workouts/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/arshuroshan/Programming-Workouts/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -2185,6 +2189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/arshuroshan/Programming-Workouts/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arshuroshan/Programming-Workouts/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/arshuroshan/Programming-Workouts/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/arshuroshan/Programming-Workouts/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/arshuroshan/Top-Interview-150/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arshuroshan/Programming-Workouts/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arshuroshan/Programming-Workouts/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
